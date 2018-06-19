@@ -1,4 +1,5 @@
 ### Welcome to my paper notes
+![Logo](https://github.com/tamamolis/SummerPaper/blob/master/logo.png)
 Код к этой статье можно увидеть [здесь](https://github.com/tamamolis/VGGUnet).
 
 ##### Классы
