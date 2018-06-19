@@ -19,12 +19,11 @@
 
 ##### Результаты
 <p align="center">
-  <img src="helsinki.jpg" width="350"/>
-  <img src="helsinki_result.png" width="350"/>
+  <img src="res/helsinki.png" width="350"/>
+  <img src="res/helsinki_result.png" width="350"/>
 </p>
 
 
 ##### Что сделано
 - предобработка и кодировка изображений в удобоваримый для нейросети вид
 - несколько моделей нейросети (Unet, SegNet, VGG + SegNet)
-- 
