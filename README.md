@@ -19,7 +19,7 @@
 
 ##### Результаты
 <p align="center">
-  <img src="res/helsinki.png" width="350"/>
+  <img src="res/helsinki.jpg" width="350"/>
   <img src="res/helsinki_result.png" width="350"/>
 </p>
 
