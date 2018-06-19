@@ -1,10 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to my paper notes
 
-You can use the [editor on GitHub](https://github.com/tamamolis/SummerPaper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Код к этой статье можно увидеть [здесь] (https://github.com/tamamolis/VGGSegnet).
+Какие были классы:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- дороги 255 255 255
+- машины 219 219 219
+- деревья 132 132 132
+- unlabeled 59 59 59
+- трава 164 164 164
+- дома 22 22 22
 
-### Markdown
+или, что то же самое:
+
+- Impervious surfaces (RGB: 255, 255, 255) белый
+- Building (RGB: 0, 0, 255) синий
+- Low vegetation (RGB: 0, 255, 255) бирюзовый
+- Tree (RGB: 0, 255, 0) зелёный
+- Car (RGB: 255, 255, 0) жёлтый
+- Clutter/background (RGB: 255, 0, 0) красный
+
+Какие были результаты:
+
+<p align="center">
+  <img src="https://github.com/tamamolis/VGGSegnet/blob/master/res/%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE.jpg" width="350"/>
+  <img src="https://github.com/tamamolis/VGGSegnet/blob/master/res/%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_%D1%81%D0%B5%D0%B3.png" width="350"/>
+</p>
+
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
