@@ -1,8 +1,6 @@
 ### Welcome to my paper notes
 Код к этой статье можно увидеть [здесь](https://github.com/tamamolis/VGGUnet).
 
-### Markdown
-
 ##### Классы
 - дороги 255 255 255
 - машины 219 219 219
