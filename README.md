@@ -1,5 +1,6 @@
 ### Welcome to my paper notes
 Код к этой статье можно увидеть [здесь](https://github.com/tamamolis/VGGUnet).
+![Logo](https://github.com/tamamolis/SummerPaper/blob/master/res/logo.png)
 
 ##### Классы
 - дороги 255 255 255
