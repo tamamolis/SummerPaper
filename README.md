@@ -1,5 +1,5 @@
 ### Welcome to my paper notes
-Код к этой статье можно увидеть [здесь] (https://github.com/tamamolis/VGGSegnet).
+Код к этой статье можно увидеть [здесь](https://github.com/tamamolis/VGGSegnet).
 
 ##### Классы
 - дороги 255 255 255
@@ -19,9 +19,10 @@
 
 ##### Результаты
 <p align="center">
-  <img src="https://github.com/tamamolis/SummerPaper/blob/master/helsinki.jpg" width="350"/>
-  <img src="https://github.com/tamamolis/SummerPaper/blob/master/helsinki_result.png" width="350"/>
+  <img src="helsinki.jpg" width="350"/>
+  <img src="helsinki_result.png" width="350"/>
 </p>
+
 
 ##### Что сделано
 - предобработка и кодировка изображений в удобоваримый для нейросети вид
