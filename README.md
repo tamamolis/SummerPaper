@@ -10,7 +10,13 @@
 - группы объектов на бетоне (розовый)
 - другое (красный)
 
-##### Результаты
+##### Результаты (VGG + U-Net)
+<p align="center">
+  <img src="res/helsinki.jpg" width="350" alt="hi" class="inline"/>
+  <img src="res/helsinki_result.png" width="350" alt="hi" class="inline"/>
+</p>
+
+##### Результаты (SegNet)
 <p align="center">
   <img src="res/helsinki.jpg" width="350" alt="hi" class="inline"/>
   <img src="res/helsinki_result.png" width="350" alt="hi" class="inline"/>
