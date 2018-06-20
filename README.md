@@ -18,8 +18,7 @@
 
 ##### Результаты (SegNet)
 <p align="center">
-  <img src="res/helsinki.jpg" width="350" alt="hi" class="inline"/>
-  <img src="res/helsinki_result.png" width="350" alt="hi" class="inline"/>
+  <img src="res/img_label88.png" width="350" alt="hi" class="inline"/>
 </p>
 
 ##### Что сделано
