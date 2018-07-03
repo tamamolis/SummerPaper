@@ -12,7 +12,7 @@
 
 ##### Результаты (VGG + U-Net, VGG + U-net + CRF, размеченное человеком и оригинал)
 <p align="center">
-  <img src="https://github.com/tamamolis/SummerPaper/blob/master/res/%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%B0%D0%B6.png" alt="hi" class="inline"/>
+  <img src="res/vko_res.png" alt="hi" class="inline"/>
 </p>
 
 
