@@ -12,10 +12,7 @@
 
 ##### Результаты (VGG + U-Net, VGG + U-net + CRF, размеченное человеком и оригинал)
 <p align="center">
-  <img src="https://github.com/tamamolis/SummerPaper/blob/master/res/%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_%D1%81%D0%B5%D0%B3.png" width="350"/>
-    <img src="https://github.com/tamamolis/SummerPaper/blob/master/res/crf_res_%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE.jpg" width="350"/>
-  <img src="https://github.com/tamamolis/SummerPaper/blob/master/res/%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_%D1%81%D0%B5%D0%B3_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA.png" width="350"/>
-  <img src="https://github.com/tamamolis/SummerPaper/blob/master/res/%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE.jpg" width="350"/>
+  <img src="https://github.com/tamamolis/SummerPaper/blob/master/res/%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%B0%D0%B6.png" alt="hi" class="inline"/>
 </p>
 
 
