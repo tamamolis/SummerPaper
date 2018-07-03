@@ -10,11 +10,14 @@
 - группы объектов на бетоне (розовый)
 - другое (красный)
 
-##### Результаты (VGG + U-Net)
+##### Результаты (VGG + U-Net, VGG + U-net + CRF, размеченное человеком и оригинал)
 <p align="center">
-  <img src="res/helsinki.jpg" width="350" alt="hi" class="inline"/>
-  <img src="res/helsinki_result.png" width="350" alt="hi" class="inline"/>
+  <img src="https://github.com/tamamolis/SummerPaper/blob/master/res/%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_%D1%81%D0%B5%D0%B3.png" width="350"/>
+    <img src="https://github.com/tamamolis/SummerPaper/blob/master/res/crf_res_%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE.jpg" width="350"/>
+  <img src="https://github.com/tamamolis/SummerPaper/blob/master/res/%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_%D1%81%D0%B5%D0%B3_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA.png" width="350"/>
+  <img src="https://github.com/tamamolis/SummerPaper/blob/master/res/%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE.jpg" width="350"/>
 </p>
+
 
 ##### Результаты (SegNet)
 <p align="center">
@@ -44,5 +47,5 @@
 - __очень важно__ прочитать [статью](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html) 
 
 ### Что надо сделать до отпуска, обговорено с Вадимом:
-- постобработка, конкретно CRF
+- постобработка, конкретно CRF __DONE__
 - boundary detection, как в статье у [немцев](https://arxiv.org/pdf/1612.01337v1.pdf)
