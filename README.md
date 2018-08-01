@@ -45,7 +45,7 @@
 #### Что сказал сделать Вадим, и это легко и приятно
 - посмотреть у [isprs](http://www2.isprs.org/commissions/comm2/wg6/bench.html) как они оценивают результаты, их метрику
 - посмотреть там же статьи, среди них две топовые: немцы и китайцы, глянуть что они там понаписали (конкретно про энтропийный слой) __DONE__
-- __очень важно__ прочитать [статью](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html) 
+- __очень важно__ прочитать [статью](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html) __DONE__
 
 ### Что надо сделать до отпуска, обговорено с Вадимом:
 - постобработка, конкретно CRF __DONE__
